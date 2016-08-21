@@ -2,8 +2,15 @@
 
 **Course URL:** https://softuni.bg/trainings/1147/data-structures-june-2015<br />
 
-**Course description:**<br />
+## Technologies
+* .NET
+* Windows 7
+* C#
 
+## Course description
+The course covers the most used data structures in the programming. It gives a deep knowledge about lists, queues, stackes, hashtables, trees, graphs and some algorithms like DFS and BFS. It shows not only how to use libraries, but also how to implement own data structures and to be able to choose the best data structure for a given problem by analyze the algorithm complexity of every operation.
+
+## Course topics
 * Data Structures, Algorithms and Complexity
   * Abstract data structures (ATD) and implementations
   * Algorithm complexity
